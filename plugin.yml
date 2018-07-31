@@ -1,0 +1,24 @@
+name: GTA
+main: varion\Main
+version: 1.0-BETA
+author: Varion
+api: 3.0.0-ALPHA12
+
+commands:
+ gtakit:
+       description: "GTA Kit iniziale"
+
+ hub:
+     description: "Torna alla HUB"
+
+ level:
+      description: "Scopri il tuo livello e i tuoi XP"
+
+ gta:
+    desctiption: "Comando GTA"
+
+ gtahelp:
+        description: "Visualizza i comandi attuali del GTA"
+
+ bank:
+     description: "Banca GTA"
