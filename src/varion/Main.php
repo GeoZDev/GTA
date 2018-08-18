@@ -213,7 +213,7 @@ class Main extends PluginBase implements Listener
                     $sender->addSubTitle("§bBy Varion");
                     $sender->sendMessage("§a------GTA------");
                     $sender->sendMessage("§9GTA Plugin by Varion");
-                    $sender->sendMessage("§9GTA Version: 2.0-FINAL");
+                    $sender->sendMessage("§9GTA Version: 1.0");
                     $sender->sendMessage("§eUsa /gtahelp per una lista di comandi / aiuti!");
                     $sender->sendMessage("§a------GTA------");
                     return false;
